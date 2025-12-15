@@ -70,7 +70,6 @@ This project and its repositories are licensed under the [MIT License](LICENSE).
 <div align="center">
   <strong>Built with ❤️ by the Zaiffer Team</strong>
   <br />
-  <a href="https://zaiffer.io">Website</a> · 
-  <a href="https://docs.zaiffer.io">Documentation</a> · 
-  <a href="https://blog.zaiffer.io">Blog</a>
+  <a href="https://www.zaiffer.org/">Website</a> · 
+  <a href="https://zaiffer.gitbook.io/wiki/">Documentation</a> 
 </div>
